@@ -1,3 +1,5 @@
+![star](https://pre.gitcode.com/likun/dev/star/badge.svg)![star](https://pre.gitcode.com/likun/dev/star/v2/badge.svg)
+
 ![image.png](https://raw.gitcode.com/likun/dev/attachment/uploads/f69d2fec-cb1f-4303-886d-c38c76f7d430/image.png 'image.png')# dev
 日常开发点点滴滴
 
